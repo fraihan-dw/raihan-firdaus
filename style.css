@@ -1,0 +1,56 @@
+p{
+    border: 5px dashed black;
+    padding: 1em;
+    margin: 1em;
+    position: relative;
+    background-color: white;
+}
+h1{
+  border: 10px solid black;
+  padding: .5em;
+  margin: .5em;
+  background-color: lightgrey;
+}
+a{
+  color: red;
+  font-weight: bold;
+  font-family: algerian;
+}
+ol {
+  border: 5px solid palegreen;
+  padding: .5em;
+  padding-left: 20px;
+  margin-right: 5px;
+  background-color: lightgrey;
+
+}
+strong {
+  font-size: 20px;
+  color: green;
+}
+.block,
+li {
+  border: 3px solid  rebeccapurple;
+  padding: .5em;
+}
+ol{
+	color:blue;
+	border: 5px solid red;
+	font-weight: bold;
+	margin-right: 40%;
+	margin-left:40%;
+	padding-top: 2px;
+	padding-bottom: 2px
+}
+ul{
+  position: relative;
+  font-weight: bold;
+  background-color: pink;
+  border: 5px solid black;
+  margin-left: 10%;
+  margin-right: 15%;
+  padding: 1.5em;
+}
+body{
+  background-color: turquoise;
+}
